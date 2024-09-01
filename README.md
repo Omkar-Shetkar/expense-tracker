@@ -2,4 +2,4 @@
 
 ## Connecting Telegram Bot - Google Sheet - AI Model
 
-![alt text](image.png)
+![alt text](image-1.png)
